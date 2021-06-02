@@ -12,12 +12,12 @@ http://localhost:3001/api/product
 
 http://localhost:3001/api/discount
 
-`local`:
+local:
 ```bash
 $ npm run start
 ```
 
-`docker`:
+docker:
 ```bash
 $ docker-compose up --build
 ```
