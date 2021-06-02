@@ -26,7 +26,7 @@ node_modules/
 # test coverage
 coverage/
 
-.build
+build/
 
 # debug vs code
 .vscode/launch.json

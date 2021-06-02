@@ -9,6 +9,7 @@ $ npm i
 ## Run
 
 http://localhost:3001/api/product
+
 http://localhost:3001/api/discount
 
 `local`:
