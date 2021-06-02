@@ -1,0 +1,12 @@
+{
+    "apps": [
+        {
+            "name": "Server",
+            "script": "./build/server.js",
+            "env": {
+                "API_PORT": 3001, 
+                "MONGO_URL": "mongodb://brandDiscountsUser:brandDiscountsPassword@host.docker.internal:27017/desafio_walmart?authSource=admin"
+            }
+        }
+    ]
+}
