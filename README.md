@@ -1,3 +1,8 @@
+## Firts
+follow the instructions the instruction from this repo
+https://github.com/walmartdigital/brand-discounts-db
+
+
 ## Install
 
 ```bash
