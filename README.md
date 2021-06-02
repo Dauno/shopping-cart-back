@@ -6,13 +6,19 @@ $ cd /shopping-cart-back
 $ npm i
 ```
 
+
+## Environment vars:
+```bash
+MONGO_URL
+API_PORT
+```
+
 ## Run
 
 http://localhost:3001/api/product
 
 http://localhost:3001/api/discount
 
-environment vars 
 
 
 local:
