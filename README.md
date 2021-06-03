@@ -1,4 +1,4 @@
-## Firts
+## First
 follow the instructions the instruction from this repo
 https://github.com/walmartdigital/brand-discounts-db
 
